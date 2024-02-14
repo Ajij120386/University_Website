@@ -1,5 +1,5 @@
  I attempted to design a Responsive interface simillar to this ( https://nstu.edu.bd ) website of my University With Bootstrap.This Design is  mobile friendly,easy to code,and can be scaled effortlessly for different projects. My Designed Website Link: https://ajij120386.github.io/University_Website/
- c
+ 
  
 ![Screenshot (149)](https://github.com/Ajij120386/University_Website/assets/66430791/f143d1d7-08a2-4ba4-a551-4ce9e52a1db2)
 
